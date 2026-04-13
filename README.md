@@ -12,7 +12,6 @@ Real-time hand gesture recognition that displays memes when you make specific ge
 
 ## 📸 Demo
 
-*Add a screenshot or GIF here*
 
 ## 🚀 Quick Start
 
