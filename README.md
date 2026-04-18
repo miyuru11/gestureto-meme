@@ -9,10 +9,7 @@ Real-time hand gesture recognition that displays memes when you make specific ge
 - 🎲 Random meme selection per gesture
 - 📷 Real-time hand tracking (21 landmarks)
 - 🚀 Easy setup - just double-click!
-
-## 📸 Demo
-
-
+  
 ## 🚀 Quick Start
 
 ### Windows Users (Easiest)
